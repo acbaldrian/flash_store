@@ -1,0 +1,22 @@
+{
+    "editor.formatOnSave": true,
+    // "cmake.buildDirectory": "${workspaceFolder}/build/${buildType}",
+    "cSpell.words": [
+        "MSVC",
+        "nonliteral",
+        "Wcast",
+        "Wconversion",
+        "Wdouble",
+        "Werror",
+        "Wextra",
+        "Wfloat",
+        "Wformat",
+        "Wnull",
+        "Wpedantic",
+        "Wshadow",
+        "Wsign",
+        "Wstrict",
+        "Wsuggest"
+    ],
+    "cmake.ctest.neverDebugTestsWithLaunchConfiguration": true,
+}
